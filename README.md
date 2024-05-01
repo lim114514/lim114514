@@ -1,8 +1,9 @@
 - 👋 你好，我是 @lim114514
 - 🌱 我现在正在学习 Kotlin 和 Java
 - 🙌 我是 WatchAndyTW 爱好者
-- 😍 我也爱 鸡腿 哦
-- 💕 当前正在进行的项目: 月轮谷Server
+- 😍 我也爱 Jtuiii 哦
+- 💕 当前正在进行的项目: 月轮谷Server (**1.18**)
+- 🦽 Dreeam大佬 *对不起*
 
 <!---
 lim114514/lim114514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
